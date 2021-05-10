@@ -38,7 +38,7 @@ module.exports = {
     ],
     semi: [
       2,
-      'never',
+      'always',
     ],
     'space-before-blocks': [
       2,
